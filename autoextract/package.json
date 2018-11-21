@@ -1,0 +1,15 @@
+{
+  "name": "autoextract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "autoextract-no-proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "web-auto-extractor": "^1.0.17"
+  }
+}
